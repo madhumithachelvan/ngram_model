@@ -37,4 +37,3 @@ On each menu screen, the possible actions are displayed in a numbered list, and 
 EXTENSIONS:
 
 The detokenize function in the corpus module accounts for spacing and punctuation, as well as for the capitalization of sentence-start words and the pronoun ‘I’. This is seen in the generated text.
-<img width="451" height="688" alt="image" src="https://github.com/user-attachments/assets/0f052663-338b-4687-a439-45b83ae2ad1b" />
